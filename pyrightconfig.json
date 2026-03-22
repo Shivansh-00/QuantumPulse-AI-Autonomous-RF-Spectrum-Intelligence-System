@@ -1,0 +1,15 @@
+{
+  "pythonVersion": "3.13",
+  "pythonPlatform": "Windows",
+  "typeCheckingMode": "basic",
+  "executionEnvironments": [
+    { "root": "backend" }
+  ],
+  "extraPaths": [
+    "C:\\Users\\shiva\\AppData\\Local\\Packages\\PythonSoftwareFoundation.Python.3.13_qbz5n2kfra8p0\\LocalCache\\local-packages\\Python313\\site-packages"
+  ],
+  "reportArgumentType": false,
+  "reportOperatorIssue": false,
+  "reportIndexIssue": false,
+  "reportReturnType": false
+}

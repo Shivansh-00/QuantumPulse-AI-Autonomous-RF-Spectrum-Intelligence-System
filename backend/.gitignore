@@ -1,0 +1,11 @@
+__pycache__/
+*.pyc
+*.pyo
+.env
+models/saved/
+.pytest_cache/
+*.egg-info/
+dist/
+build/
+test_results.txt  
+staged_list.txt  

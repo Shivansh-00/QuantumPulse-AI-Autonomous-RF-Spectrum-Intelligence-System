@@ -1,0 +1,12 @@
+{
+  "python.defaultInterpreterPath": "C:\\Users\\shiva\\AppData\\Local\\Microsoft\\WindowsApps\\PythonSoftwareFoundation.Python.3.13_qbz5n2kfra8p0\\python.exe",
+  "python.analysis.extraPaths": [
+    "./backend",
+    "C:\\Users\\shiva\\AppData\\Local\\Packages\\PythonSoftwareFoundation.Python.3.13_qbz5n2kfra8p0\\LocalCache\\local-packages\\Python313\\site-packages"
+  ],
+  "python.analysis.typeCheckingMode": "basic",
+  "css.lint.unknownAtRules": "ignore",
+  "css.lint.vendorPrefix": "ignore",
+  "css.lint.compatibleVendorPrefixes": "ignore",
+  "css.lint.unknownProperties": "ignore"
+}
